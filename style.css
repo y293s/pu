@@ -1,13 +1,13 @@
 body {
   margin: 0;
   padding: 0;
-  color: #333; /* 기본 글씨 색 */
+  color: #333; 
 }
 
 header {
   padding: 8px;
   text-align: center;
-  background-color: #F0EFEF; /* 위쪽 배경색 */
+  background-color: #F0EFEF; 
 }
 .header {
   text-align: left;
@@ -15,14 +15,13 @@ header {
 
 header h1 {
   margin: 0;
-  font-size: 24px; /* 헤더 제목 크기 */
+  font-size: 24px; 
 }
 
 nav {
-  border-bottom: 2px solid #908a8a; /* 위쪽과의 구분선 */
   padding: 15px 0;
   text-align: center;
-  background-color: #F0EFEF; /* 위쪽 배경색 */
+  background-color: #F0EFEF; 
 }
 nav ul {
   list-style-type: none;
